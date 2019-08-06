@@ -3,7 +3,7 @@
 Kwalify is a parser, schema validator, and data binding tool for
 YAML and JSON.
 
-See [doc/users-guide.html]() for details.
+See [doc/users-guide.html](doc/users-guide.html) for details.
 
 ## Installation
 
