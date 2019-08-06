@@ -1,19 +1,9 @@
-# README
-
-release::	0.7.1
-lastupdate::	$Date: 2008-01-28 15:27:12 +0900 (Mon, 28 Jan 2008) $
-copyright::	copyright(c) 2005-2008 kuwata-lab all rights reserved.
-
-
-
-## Introduction
+# Kwalify
 
 Kwalify is a parser, schema validator, and data binding tool for
 YAML and JSON.
 
-See doc/users-guide.html for details.
-
-
+See [doc/users-guide.html]() for details.
 
 ## Installation
 
