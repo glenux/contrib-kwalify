@@ -53,6 +53,4 @@ and libraries into a file.
 
 MIT License
 
-## Copyright
-
 Copyright(c) 2005-2008 kuwata-lab all rights reserved.
